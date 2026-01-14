@@ -1,12 +1,12 @@
 {
-  "latest_version": "1.1.18",
+  "latest_version": "1.1.19",
   "min_sketchup_version": 20,
-  "rbz_url": "https://07f1d8447e.clvaw-cdnwnd.com/8bd1e0c9b35900883c8537940cd332ec/200001747-d641fd6421/SWD_CarcassGenerator_1.1.18.rbz?ph=07f1d8447e",
-  "sha256": "c119bb94c7347d83fa4fa12bb95549385f967bf3cdda45c5267db4a05298bf7e",
-  "changelog_url": "https://www.euasztalos.hu/korpus-generator/",
+  "rbz_url": "IDE_TEDD_A_WEBNODEOS_LINKET_A_1.1.19_RBZ-HEZ",
+  "sha256": "451423f43dbcff008c4f2a45f9b98065f20486ce61efd11b62df04ba38bf6466",
+  "changelog_url": "https://07f1d8447e.clvaw-cdnwnd.com/8bd1e0c9b35900883c8537940cd332ec/200001748-6ef5e6ef60/SWD_CarcassGenerator_1.1.19.rbz?ph=07f1d8447e",
   "release_notes": [
-    "Frissítés után első indításkor megjelenik a verzió és a változáslista (Mi újság ablak).",
-    "Heti automatikus frissítésellenőrzés beállítható napon (első indításkor kérdez).",
-    "Frissítés beállítások menüpont (kikapcsolás / heti / napi)."
+    "Frissítés után indításkor (2 mp késleltetéssel) biztosan megjelenik a Mi újság? ablak.",
+    "Frissítés telepítése után azonnal is felajánlja a változáslistát.",
+    "Heti/napi automatikus frissítésellenőrzés beállítások változatlanul elérhetők."
   ]
 }
