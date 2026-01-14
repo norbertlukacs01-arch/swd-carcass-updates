@@ -1,12 +1,13 @@
 {
-  "latest_version": "1.1.24",
+  "latest_version": "1.1.25",
   "min_sketchup_version": 20,
-  "rbz_url": "https://07f1d8447e.clvaw-cdnwnd.com/8bd1e0c9b35900883c8537940cd332ec/200001753-3f26b3f26c/SWD_CarcassGenerator_1.1.24.rbz?ph=07f1d8447e",
-  "sha256": "2aa990899470a6ca330b776c0b16f32240c4b76fdc3a872b9049564e9c9ccfc2",
+  "rbz_url": "https://07f1d8447e.clvaw-cdnwnd.com/8bd1e0c9b35900883c8537940cd332ec/200001754-8a6668a668/SWD_CarcassGenerator_1.1.25.rbz?ph=07f1d8447e",
+  "sha256": "8ca8d88b852def00d364a2b2566e956e839e41557448cd947dd419607c97937a",
   "changelog_url": "https://www.euasztalos.hu/",
+  "telemetry_url": "https://script.google.com/macros/s/AKfycbycWISaSWkmMw5GHYaHYYOd6eKuDmON_0a5xykYbHsThiLN8wLO2PrUWTD5rD8KRZXAqA/exec",
   "release_notes": [
-    "Fix: telemetria miatti betöltési (SyntaxError) hiba javítva.",
-    "Anonim telemetria: heartbeat/startup + frissítési események (Sheets).",
-    "Beállítás: statisztika küldése ki/be kapcsoló a Frissítés beállításokban."
+    "Új: telemetria URL a manifestből (telemetry_url), így URL csere nem igényel új RBZ-t.",
+    "Fix: Mi újság? ablak nem marad üres – ha kell, a manifestből tölti be a release_notes-t.",
+    "Stabilitás: napi 1× endpoint-frissítés a manifest alapján."
   ]
 }
