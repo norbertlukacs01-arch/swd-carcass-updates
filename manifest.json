@@ -1,12 +1,12 @@
 {
-  "latest_version": "1.1.22",
+  "latest_version": "1.1.23",
   "min_sketchup_version": 20,
-  "rbz_url": "https://07f1d8447e.clvaw-cdnwnd.com/8bd1e0c9b35900883c8537940cd332ec/200001751-2bb162bb18/SWD_CarcassGenerator_1.1.22.rbz?ph=07f1d8447e",
-  "sha256": "8a631850d8e18abf7ed06de261ed1f203169c7e7f9b7ec35597009ad00d53aa0",
+  "rbz_url": "https://07f1d8447e.clvaw-cdnwnd.com/8bd1e0c9b35900883c8537940cd332ec/200001752-48de948deb/SWD_CarcassGenerator_1.1.23.rbz?ph=07f1d8447e",
+  "sha256": "21d34f8ff1ec220dc58b3a2e130b16a256b8885d9798a24835175013973a53c7",
   "changelog_url": "https://www.euasztalos.hu/",
   "release_notes": [
-    "Új: anonim használati statisztika (telemetria) Google Sheets-be.",
-    "Frissítés beállításokban kapcsolható a statisztika küldése.",
-    "Események: startup/heartbeat/frissítés check-találat-telepítés/hibák."
+    "Fix: 1.1.22 betöltési hiba (SyntaxError) javítva.",
+    "Új: anonim telemetria (Sheets) – heartbeat/startup + frissítési események.",
+    "Beállítás: telemetria ki/be kapcsoló a Frissítés beállításokban."
   ]
 }
