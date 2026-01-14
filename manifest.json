@@ -1,6 +1,6 @@
 {
   "latest_version": "1.1.17",
-  "min_sketchup_version": 2020,
+  "min_sketchup_version": 20,
   "rbz_url": "https://07f1d8447e.clvaw-cdnwnd.com/8bd1e0c9b35900883c8537940cd332ec/200001746-574a0574a1/SWD_CarcassGenerator_1.1.17_FIXED2.rbz?ph=07f1d8447e",
   "sha256": "046e6d5094cd425e553c97cdbe6a2adb8601bde7ab2fbd90d2c302fd08698f03"
 }
