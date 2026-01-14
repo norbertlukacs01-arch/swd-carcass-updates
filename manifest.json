@@ -3,7 +3,7 @@
   "min_sketchup_version": 20,
   "rbz_url": "https://07f1d8447e.clvaw-cdnwnd.com/8bd1e0c9b35900883c8537940cd332ec/200001748-6ef5e6ef60/SWD_CarcassGenerator_1.1.19.rbz?ph=07f1d8447e",
   "sha256": "451423f43dbcff008c4f2a45f9b98065f20486ce61efd11b62df04ba38bf6466",
-  "changelog_url": "https://www.euasztalos.hu/korpus-generator/",
+  "changelog_url": "https://www.euasztalos.hu/",
   "release_notes": [
     "Frissítés után indításkor (2 mp késleltetéssel) biztosan megjelenik a Mi újság? ablak.",
     "Frissítés telepítése után azonnal is felajánlja a változáslistát.",
