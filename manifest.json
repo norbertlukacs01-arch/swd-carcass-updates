@@ -1,12 +1,11 @@
 {
-  "latest_version": "1.1.19",
+  "latest_version": "1.1.20",
   "min_sketchup_version": 20,
-  "rbz_url": "https://07f1d8447e.clvaw-cdnwnd.com/8bd1e0c9b35900883c8537940cd332ec/200001748-6ef5e6ef60/SWD_CarcassGenerator_1.1.19.rbz?ph=07f1d8447e",
-  "sha256": "451423f43dbcff008c4f2a45f9b98065f20486ce61efd11b62df04ba38bf6466",
+  "rbz_url": "https://07f1d8447e.clvaw-cdnwnd.com/8bd1e0c9b35900883c8537940cd332ec/200001749-7f8297f82a/SWD_CarcassGenerator_1.1.20.rbz?ph=07f1d8447e",
+  "sha256": "0c624aeec1536451f7bfe54b53d59c73f01bc5ef7f1e50e95e8c15986198fa39",
   "changelog_url": "https://www.euasztalos.hu/",
   "release_notes": [
-    "Frissítés után indításkor (2 mp késleltetéssel) biztosan megjelenik a Mi újság? ablak.",
-    "Frissítés telepítése után azonnal is felajánlja a változáslistát.",
-    "Heti/napi automatikus frissítésellenőrzés beállítások változatlanul elérhetők."
+    "Fix: SketchUp indításkori betöltési hiba javítva (Some Extensions Failed to Load).",
+    "A Mi újság? ablak és az automatikus frissítés-ellenőrzés stabilabb (késleltetett indulás)."
   ]
 }
