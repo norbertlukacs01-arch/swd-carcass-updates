@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.1.27",
+  "latest_version": "1.1.28",
   "min_sketchup_version": 20,
-  "rbz_url": "https://07f1d8447e.clvaw-cdnwnd.com/8bd1e0c9b35900883c8537940cd332ec/200001756-f1a2df1a2f/SWD_CarcassGenerator_1.1.27.rbz?ph=07f1d8447e",
-  "sha256": "62baf2742e77338dfb9971ed31cb461426914ac034e2016e4ecf8d9c5339492a",
+  "rbz_url": "https://07f1d8447e.clvaw-cdnwnd.com/8bd1e0c9b35900883c8537940cd332ec/200001757-18f3118f33/SWD_CarcassGenerator_1.1.28.rbz?ph=07f1d8447e",
+  "sha256": "4ee8b69edb8d309e0574958b4b0665a446ad2e0e1afffd6e137170879817152e",
   "changelog_url": "https://www.euasztalos.hu/",
   "telemetry_url": "https://script.google.com/macros/s/AKfycbycWISaSWkmMw5GHYaHYYOd6eKuDmON_0a5xykYbHsThiLN8wLO2PrUWTD5rD8KRZXAqA/exec",
   "release_notes": [
